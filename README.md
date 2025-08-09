@@ -1,5 +1,7 @@
 # Aneuploidy Impacts on Early Human Embryonic Cells
 
+[![View Full Analysis on GitHub Pages](https://img.shields.io/badge/View%20Analysis-Live%20Notebook-blue)](https://willsketch.github.io/early-embryo-aneuploidy/)
+
 ## Overview
 This project investigates how aneuploidy,the presence of an abnormal number of chromosomes, affects the transcriptional identity and functional state of early human embryonic cells. Using single-cell RNA sequencing (scRNA-seq) data from preimplantation embryos (E3–E7), we compare aneuploid and euploid cells to uncover changes in gene expression, enriched biological pathways, and disrupted cellular processes.
 
